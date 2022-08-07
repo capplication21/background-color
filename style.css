@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ramaraja&display=swap");
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Comfortaa", cursive;
+  margin: 0;
+  transition: 0.5s all;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+.header-h1 {
+  font-family: "Ramaraja";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 76px;
+  /* or 106% */
+
+  letter-spacing: 0.02em;
+
+  color: #1b0a42;
+}
+.header-p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  /* or 160% */
+
+  letter-spacing: 0.02em;
+
+  color: #9a9a9a;
+}
+.header-btn {
+  background: #8a07f5;
+  border-radius: 6px !important;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  width: 152px;
+  height: 63.82px;
+  border: none;
+}
+.navbar-btn {
+  background: #8a07f5 !important;
+  border: none !important;
+}
+
+.btn {
+  background: #070bf5;
+  border-radius: 6px !important;
+  font-style: normal;
+
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  width: 152px;
+  height: 63.82px;
+  border: none;
+}
+
+.btn2 {
+  background: #4f56f1 !important;
+  border-radius: 6px !important;
+
+  border: 20px #ffffff;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  width: 152px;
+  height: 63.82px;
+}
+.btn3 {
+  background: #a3dc00 !important;
+  border-radius: 6px !important;
+
+  border: 20px #ffffff;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  width: 152px;
+  height: 63.82px;
+}
+
+.btn4 {
+  background: #FC569A !important;
+  border-radius: 6px !important;
+
+  border: 20px #ffffff;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  width: 152px;
+  height: 63.82px;
+}
+
+
